@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br/>
+Don't forget to run `npm install` after clone this. The deployed version can be seen at this [link](https://yehez-react-todo.vercel.app/).
 
 ## Available Scripts
 
